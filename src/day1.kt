@@ -1,3 +1,4 @@
+package day1
 fun main(args: Array<String>) {
     if (args.size < 1) error("no input")
     if ("test" == args.first()) {
